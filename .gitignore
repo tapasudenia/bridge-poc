@@ -1,0 +1,13 @@
+.idea/
+**/bin/
+**/obj/
+**/Properties/launchSettings.json
+*.user
+
+**/appsettings.user.json
+
+# VSCode
+.vscode
+
+# Visual Studio
+.vs
